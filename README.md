@@ -1,4 +1,4 @@
-### Hi 👋, I'm Pat (he/him)
+### Hi 👋, I'm Pat
 <ul>
   <li>😃 Passionate Full-Stack Web Developer & Cyber Security Specialist</li>
   <li>👨🏻‍💻 Looking to Work / Collaborate on any project to enhance my skillset</li>
