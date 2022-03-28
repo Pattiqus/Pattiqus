@@ -1,6 +1,7 @@
-### Hi 👋, I'm Pat
+### Hi 👋, I'm Pat (he/him)
 <ul>
-  <li>😃 Passionate Full-Stack Web Developer & Cyber Security Specialist in training!</li>
+  <le> 💻 Currently employed as an Analytics Specialist</li>
+  <li>😃 Passionate aspiring Full-Stack Web Developer & Cyber Security Specialist in training!</li>
   <li>👨🏻‍💻 Looking to Work / Collaborate on any project to enhance my skillset</li>
   <li>📧 Contact: <a href=mailto:Patticus.tv@gmail.com>Patticus.tv@gmail.com</a></li>
   <li><a href=https://pattiqus.github.io/Master-Portfolio>🚀 Click here to view my Portfolio!<a></li>
