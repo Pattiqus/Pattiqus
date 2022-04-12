@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Pat (he/him)
 <ul>
-  <le> 💻 Currently employed as an Analytics Specialist</li>
+  <li> 💻 Currently employed as an Analytics Specialist</li>
   <li>😃 Passionate aspiring Full-Stack Web Developer & Cyber Security Specialist in training!</li>
   <li>👨🏻‍💻 Looking to Work / Collaborate on any project to enhance my skillset</li>
   <li>📧 Contact: <a href=mailto:Patticus.tv@gmail.com>Patticus.tv@gmail.com</a></li>
