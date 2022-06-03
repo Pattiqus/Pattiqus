@@ -4,7 +4,7 @@
   <li>😃 Passionate aspiring Full-Stack Web Developer</li>
   <li>👨🏻‍💻 Looking to Work / Collaborate on any project to enhance my skillset</li>
   <li>📧 Contact: <a href=mailto:Patticus.tv@gmail.com>Patticus.tv@gmail.com</a></li>
-  <li><a href=https://pattiqus.github.io/Master-Portfolio>🚀 Click here to view my Portfolio!<a></li>
+  <li><a href=https://pattiqus.github.io/pattiqus-portfolio>🚀 Click here to view my Portfolio!<a></li>
   <li>Hobbies: 💻 Programming 🏋🏽 Lifting ⚔️ Gaming</li>
 </ul>
 
