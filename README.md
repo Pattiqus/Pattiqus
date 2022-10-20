@@ -1,4 +1,4 @@
-### Hi 👋, I'm Pat (he/him)
+### Hi 👋, I'm Pat
 <ul>
   <li> 💻 Currently employed as an Analytics Specialist</li>
   <li>😃 Passionate aspiring Full-Stack Web Developer</li>
