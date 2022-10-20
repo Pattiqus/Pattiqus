@@ -5,7 +5,7 @@
   <li>👨🏻‍💻 Looking to Work / Collaborate on any project to enhance my skillset</li>
   <li>📧 Contact: <a href=mailto:Pattiqus@gmail.com>Pattiqus@gmail.com</a></li>
   <li><a href=https://pattiqus.github.io/pattiqus-portfolio>🚀 Click here to view my Portfolio!<a></li>
-  <li>Hobbies: 💻 Programming 🏋🏽 Lifting ⚔️ Gaming</li>
+  <li>Hobbies: 💻 Coding 🏋🏽 Lifting ⚔️ Gaming</li>
 </ul>
 
 <!--
